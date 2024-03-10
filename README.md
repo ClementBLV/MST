@@ -1,5 +1,5 @@
-# MST
-TensorFlow code for our ICCV 2019 paper "Multimodal Style Transfer via Graph Cuts" 
+# Computationnal Imaging course : project MST
+This repo is part of a Computational Imaging course, the goal is to make the code for ICCV 2019 paper "Multimodal Style Transfer via Graph Cuts" work on our device. 
 # Multimodal Style Transfer via Graph Cuts
 This repository is for MST introduced in the following paper
 
